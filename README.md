@@ -12,7 +12,7 @@ Generate your own version of the [slim-play app](https://github.com/lloydmeta/sl
 
 The MIT License (MIT)
 
-Copyright (c) 2015 by Lloyd Chan
+Copyright (c) 2016 by Lloyd Chan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
